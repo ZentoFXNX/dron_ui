@@ -1,6 +1,6 @@
 # gui_menu
 
-A new Flutter project.
+flutter project
 
 ## Getting Started
 
